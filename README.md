@@ -1,2 +1,0 @@
-# deno-service
-Begin app
